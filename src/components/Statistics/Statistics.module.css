@@ -1,0 +1,19 @@
+.stats {
+  font-weight: 700;
+}
+
+.good {
+  color: rgb(48, 187, 48);
+}
+
+.neutral {
+  color: rgb(199, 199, 7);
+}
+
+.bad {
+  color: rgb(204, 93, 93);
+}
+
+.percent {
+  color: blueviolet;
+}
